@@ -1,0 +1,8 @@
+content	headercolumns  content/
+skin    headercolumns  classic/1.0 skin/
+resource headercolumns modules/
+
+locale	headercolumns	de-DE	locale/de-DE/
+locale	headercolumns	en-US	locale/en-US/
+
+overlay chrome://messenger/content/messenger.xul                chrome://headercolumns/content/overlay.xul

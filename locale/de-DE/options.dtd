@@ -1,0 +1,4 @@
+<!ENTITY title.headers "Header">
+<!ENTITY option.headers "Liste aller Kopfzeilen (Header), für welche extra Spalten in der Mailübersicht hinzugefügt werden sollen (getrennt mit Leerzeichen)">
+<!ENTITY title.debugging "Debugging">
+<!ENTITY desc.debugging "aktiviere die Fehlersuch-Ausgaben in der Konsole.">

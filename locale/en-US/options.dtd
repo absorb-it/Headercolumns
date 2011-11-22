@@ -1,0 +1,4 @@
+<!ENTITY title.headers "Headers">
+<!ENTITY option.headers "Enter all headers for which some extra columns should be added (separate using spaces)">
+<!ENTITY title.debugging "Debugging">
+<!ENTITY desc.debugging "Enable debug output in the system console and the error console.">

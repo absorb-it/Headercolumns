@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <!-- Thunderbird -->
+  <RDF:Description RDF:about="rdf:#$njP94"
+                   em:id="{3550f703-e582-4d05-9a08-453d09bdfdc6}"
+                   em:minVersion="7.0"
+                   em:maxVersion="11.0a*" />
+  <!-- Seamonkey -->
+  <RDF:Description RDF:about="rdf:#$rjP94"
+                   em:id="{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}"
+                   em:minVersion="2.4"
+                   em:maxVersion="2.4.*" />
+  <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                   em:id="headercolumns@absorb.it"
+                   em:name="headercolumns"
+                   em:version="0.1"
+				   em:type="2"
+                   em:description="Display Mail-Header-Values in a column of the 3pane-Mail-Overview"
+                   em:creator="Rene Ejury"
+                   em:homepageURL="http://www.absorb.it/headercolumns"
+                   em:optionsURL="chrome://headercolumns/content/options.xul"
+                   em:optionsType="2" >
+    <em:targetApplication RDF:resource="rdf:#$njP94"/>
+    <em:targetApplication RDF:resource="rdf:#$rjP94"/>
+  </RDF:Description>
+</RDF:RDF>
