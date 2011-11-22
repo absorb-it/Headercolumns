@@ -19,9 +19,11 @@
 				   em:type="2"
                    em:description="Display Mail-Header-Values in a column of the 3pane-Mail-Overview"
                    em:creator="Rene Ejury"
-                   em:homepageURL="http://www.absorb.it/headercolumns"
+                   em:homepageURL="https://github.com/absorb-it/Headercolumns"
                    em:optionsURL="chrome://headercolumns/content/options.xul"
-                   em:optionsType="2" >
+                   em:optionsType="2"
+                   em:updateURL="http://absorb.it/software/headercolumns/headercolumns_update.rdf"
+                   em:updateKey="MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY5lTLkMzbwKDrWvC5rAjR9Uiv6THmeOK03lBCsQ89KXYlz8i2CNTgvp44+/kK+73u+ZdduNSID+HGuzfoWy+cJLznFSlKx5DcYWDKKGKhCrXvRZ/nFX1JowmfdR5LskQMLNHMjadUCuS6ka3tX+yWErxOMPTdYmSWazU8tp1fGwIDAQAB">
     <em:targetApplication RDF:resource="rdf:#$njP94"/>
     <em:targetApplication RDF:resource="rdf:#$rjP94"/>
   </RDF:Description>
